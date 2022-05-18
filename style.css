@@ -1,0 +1,98 @@
+.skip{
+    color: orangered;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.section-1{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.width {
+    width: 50%;
+    padding: 5%;
+}
+.width img {
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+
+}
+.section-2{
+    display: flex;
+    margin-bottom: 70px;
+    background-image: url(img/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.width2 {
+    width: 50%;
+    padding: 5%;
+}
+
+.width2 img {
+    width: 58%;
+}
+.section-3{
+    margin: 0;
+
+    
+}
+.section-4{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.width4{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding: 10px;
+
+    box-shadow: 2px 3px 2px #504c4c;
+    border-radius: 10px;
+
+}
+.width4 img {
+    width: 200px;
+    padding: 5%;
+    border-radius: 20px;
+    
+
+}
+.box{
+
+}
+.last{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    background-color: rgb(1, 1, 22);
+    
+}
+.food{
+    color: orangered;
+}
+.net{
+    color: #504c4c;
+}
+.nett {
+    color: #504c4c;
+    margin-bottom: none;
+}
+.eat{
+    margin-top: none;
+    margin-bottom: 60px;
+    color: #504c4c;
+}
